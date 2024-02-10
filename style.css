@@ -52,9 +52,6 @@ body {
     animation-range: entry 10% cover 15%;
  }
 
- 
- 
- 
  @keyframes reveal {
     from {
         opacity: 0;
@@ -72,8 +69,6 @@ body {
     }
  }
 
- 
- 
  @keyframes enhance-header {
     to {
         background-color: rgba(63, 33, 199, 0.436);
